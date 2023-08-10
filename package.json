@@ -1,8 +1,12 @@
 {
     "name": "node-typescript-template",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A template node typescript project",
     "main": "index.js",
+    "engines": {
+        "npm": ">=9.8.1",
+        "node": ">=v20.5.1"
+    },
     "scripts": {
         "prepare": "husky install",
         "build": "rimraf dist && tsc",
