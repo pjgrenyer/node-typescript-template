@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/pjgrenyer/node-typescript-template/issues"
   },
-  "homepage": "https://github.com/pjgrenyer/node-typescript-template#readme"
+  "homepage": "https://github.com/pjgrenyer/node-typescript-template#readme",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
